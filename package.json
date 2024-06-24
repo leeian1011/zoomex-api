@@ -28,7 +28,7 @@
     "events": "^3.3.0",
     "isomorphic-ws": "^4.0.1",
     "ws": "^7.4.0",
-    "zoomex-api": "github:leeian1011/zoomex-api"
+    "zoomex-api": "github:leeian1011/zoomex-api#master"
   },
   "devDependencies": {
     "@types/jest": "^29.5.11",
